@@ -11180,7 +11180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SKIN
+  m_text: SKIP
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c8c1542d5736d04ab38db1aef9db708, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 55031ff628e9ecb41a1c10e99b53f33e, type: 2}
