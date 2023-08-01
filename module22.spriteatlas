@@ -423,6 +423,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: b5ff20ab01664a588178cbd1051e7655, type: 3}
   - {fileID: 21300000, guid: 5761e3ab0f944988bb560107944a6c73, type: 3}
   - {fileID: 21300000, guid: b6eb57abbeaa4566b57d30d2a4617e41, type: 3}
+  - {fileID: 21300000, guid: 5f4f28ab08e819a4cb3c2d35ca420d76, type: 3}
   - {fileID: 21300000, guid: b76b2ccb3cc2d854d85fd5bb78168dde, type: 3}
   - {fileID: 21300000, guid: 60438ccba0b64a6d88ccebc6ffe93b52, type: 3}
   - {fileID: 21300000, guid: 1240f8db99874b4395361a8beb45fdb8, type: 3}
@@ -863,6 +864,7 @@ SpriteAtlas:
   - mask_ctrl
   - nm__0001_4
   - 02
+  - gold
   - 7_0002_3
   - lingdang_00004
   - 3_02
