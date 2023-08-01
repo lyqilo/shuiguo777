@@ -195,6 +195,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c0ec91e33bc14852b4bcdf161242e90a, type: 3}
   - {fileID: 21300000, guid: 2044c8e34241b7941b3d07e03268d4c3, type: 3}
   - {fileID: 21300000, guid: 9a66d7f3886c1d647a4d82145ed6596b, type: 3}
+  - {fileID: 21300000, guid: 563a38f311a4b3e44b7677340b9e9873, type: 3}
   - {fileID: 21300000, guid: 656d2b0417914071b5e150affd619621, type: 3}
   - {fileID: 21300000, guid: e197771402be4b9a8269da6e9af3bc78, type: 3}
   - {fileID: 21300000, guid: 2cf66c14ee7b4abfb727a301b1c58c06, type: 3}
@@ -422,7 +423,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: b5ff20ab01664a588178cbd1051e7655, type: 3}
   - {fileID: 21300000, guid: 5761e3ab0f944988bb560107944a6c73, type: 3}
   - {fileID: 21300000, guid: b6eb57abbeaa4566b57d30d2a4617e41, type: 3}
-  - {fileID: 21300000, guid: 5f4f28ab08e819a4cb3c2d35ca420d76, type: 3}
   - {fileID: 21300000, guid: b76b2ccb3cc2d854d85fd5bb78168dde, type: 3}
   - {fileID: 21300000, guid: 60438ccba0b64a6d88ccebc6ffe93b52, type: 3}
   - {fileID: 21300000, guid: 1240f8db99874b4395361a8beb45fdb8, type: 3}
@@ -635,6 +635,7 @@ SpriteAtlas:
   - sg__0012_0
   - 777_0003_4
   - xg__0003_4
+  - sg777_gold
   - lingdang_00012
   - syy
   - jinbi_00015
@@ -862,7 +863,6 @@ SpriteAtlas:
   - mask_ctrl
   - nm__0001_4
   - 02
-  - gold
   - 7_0002_3
   - lingdang_00004
   - 3_02
