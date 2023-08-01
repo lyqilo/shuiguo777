@@ -195,7 +195,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: c0ec91e33bc14852b4bcdf161242e90a, type: 3}
   - {fileID: 21300000, guid: 2044c8e34241b7941b3d07e03268d4c3, type: 3}
   - {fileID: 21300000, guid: 9a66d7f3886c1d647a4d82145ed6596b, type: 3}
-  - {fileID: 21300000, guid: 563a38f311a4b3e44b7677340b9e9873, type: 3}
   - {fileID: 21300000, guid: 656d2b0417914071b5e150affd619621, type: 3}
   - {fileID: 21300000, guid: e197771402be4b9a8269da6e9af3bc78, type: 3}
   - {fileID: 21300000, guid: 2cf66c14ee7b4abfb727a301b1c58c06, type: 3}
@@ -636,7 +635,6 @@ SpriteAtlas:
   - sg__0012_0
   - 777_0003_4
   - xg__0003_4
-  - sg777_gold
   - lingdang_00012
   - syy
   - jinbi_00015
